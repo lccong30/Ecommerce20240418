@@ -1,0 +1,2 @@
+-- Start
+- node --watch server.js || npm run dev
